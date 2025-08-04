@@ -13,3 +13,4 @@
     ORDER BY from_date ASC
     LIMIT 1;
 ```
+
