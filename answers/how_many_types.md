@@ -5,6 +5,5 @@
 
 ### SQL
 ```sql
-SELECT COUNT(DISTINCT title) AS title_types_count
-    -> FROM titles;
+
 ```
