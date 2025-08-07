@@ -10,4 +10,5 @@ SELECT title
     -> WHERE emp_no = 49988
     -> ORDER BY from_date ASC
     -> LIMIT 1;
+
 ```
